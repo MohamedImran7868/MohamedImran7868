@@ -24,14 +24,8 @@
 ![Node.js](https://img.shields.io/badge/Node.js-Intermediate-339933?logo=node.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-Excellent-777BB4?logo=php&logoColor=white)
 
-### <img src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png" width="20"> Mobile Development
-![React Native](https://img.shields.io/badge/React_Native-Intermediate-61DAFB?logo=react&logoColor=black)
-![Expo](https://img.shields.io/badge/Expo-Intermediate-000020?logo=expo&logoColor=white)
-![NativeWind](https://img.shields.io/badge/NativeWind-Intermediate-06B6D4?logo=tailwind-css&logoColor=white)
-
 ### <img src="https://cdn-icons-png.flaticon.com/512/4492/4492311.png" width="20"> Databases
 ![MySQL](https://img.shields.io/badge/MySQL-Intermediate-4479A1?logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-Beginner-FFCA28?logo=firebase&logoColor=black)
 ![SQLite](https://img.shields.io/badge/SQLite-Beginner-003B57?logo=sqlite&logoColor=white)
 
 ### <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="20"> Tools & Platforms
@@ -39,6 +33,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-Intermediate-181717?logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-Excellent-007ACC?logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-Beginner-F24E1E?logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-Intermediate-F24E1E?logo=canva&logoColor=white)
 
 ### <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" width="20"> Design & Office
 ![Photoshop](https://img.shields.io/badge/Photoshop-Excellent-31A8FF?logo=adobe-photoshop&logoColor=white)
