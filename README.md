@@ -44,66 +44,62 @@
 
 ### **FYPWISE - FYP Management System** | [GitHub Repo](https://github.com/yourusername/FYPWISE)
 *(Nov 2024 - Feb 2025)*  
-📌 **Automated Final Year Project coordination platform for universities**
+📌 **A comprehensive web platform for managing university Final Year Projects**
 
 **Tech Stack:**  
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?logo=xampp&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![MVC](https://img.shields.io/badge/Architecture-MVC-FF6B6B)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 
-**Metrics & Impact:**
-📈 **300+** test users (students & professors)  
-⏱️ **40% faster** project approval process  
-📊 **15+** database tables designed  
-🔄 **8** automated workflow processes  
-
 **Key Features:**
-✅ Dynamic supervisor-student matching algorithm  
-✅ Plagiarism-check integration via API  
-✅ Real-time notification system (Email/SMS)  
-✅ Automated report generation (PDF/Excel)  
+✅ **MVC Architecture** - Separated concerns for maintainability  
+✅ **Admin Dashboard** - For professors to manage projects/students  
+✅ **Student Portal** - Submission system with deadlines tracking  
+✅ **Automated Notifications** - Email reminders for milestones  
 
----
-
-### **🔧 Ongoing FYP: Smart Attendance System** *(Expected Completion: Oct 2025)*
-📌 **AI-powered classroom attendance using facial recognition**
-
-**Tech Stack Progress:**  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white) 
-![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-
-**Current Milestones:**  
-🟢 **Phase 1 Completed**: Facial detection model (92% accuracy)  
-🟡 **Phase 2 In Progress**: Web portal development (60% done)  
-🔴 **Phase 3 Pending**: Multi-classroom scaling  
-
-**Innovation Points:**  
-✨ Edge computing for offline functionality  
-✨ GDPR-compliant data handling  
-✨ Cross-platform mobile companion app  
+**My Contributions:**  
+🔹 Designed database schema with 15+ relational tables  
+🔹 Implemented CRUD operations using PHP/MySQL  
+🔹 Developed responsive UI with Bootstrap 5  
+🔹 Integrated SMTP email notifications  
 
 ---
 
 ### **Personal Portfolio Website** | [Live Demo](https://mohamedimran7868.github.io/imran-portfolio/#/)
-**Metrics:**  
-🏆 **4.8s** average load time  
-📱 **100%** mobile responsiveness  
-🎨 **3** theme variants (light/dark/system)  
+*(Ongoing Project)*  
+📌 **Interactive showcase of my projects and skills**
 
-**Tech Highlights:**  
+**Tech Stack:**  
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Animations-Framer_Motion-0055FF)
-![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
+
+**Notable Components:**  
+✨ **Animated page transitions**  
+✨ **Project showcase with filter tags**  
+✨ **Responsive design (mobile-first)**  
+✨ **Dark/light mode toggle**  
 
 ---
 
 ### **Mobile Expense Tracker** *(Personal Project)*
-**User Metrics:**  
-📊 **85%** retention rate after 30 days  
-⏳ **2.3s** average transaction recording time  
+📌 **Finance management app with data visualization**
 
+**Tech Stack:**  
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+
+**Core Functionality:**  
+📊 Expense categorization with pie charts  
+🔔 Monthly budget alerts  
+📱 Off-first synchronization  
+🔐 User authentication  
+
+*(More projects available on my [portfolio site]((https://mohamedimran7868.github.io/imran-portfolio/#/))*
 **Technical Achievements:**  
 🔐 Implemented JWT authentication  
 📲 Optimized for low-end devices (98% compatibility)  
