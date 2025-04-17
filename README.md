@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Hello, I'm Mohamed Imran
 
 🎓 Software Engineering Student | 💻 Full-Stack Developer | 🚀 Passionate about building user-friendly applications
@@ -11,10 +9,47 @@
 - Check out my portfolio: [mohamedimran7868.github.io/imran-portfolio](https://mohamedimran7868.github.io/imran-portfolio/#/)
 
 ## 🛠️ Technical Skills
-**Languages**: Java, Python, JavaScript, HTML/CSS, SQL  
-**Frameworks/Libraries**: React, Node.js  
-**Tools**: Git, GitHub, VS Code, XAMPP  
-**Methodologies**: Agile/Scrum  
+
+### Programming Languages
+- Python (Excellent)  
+  Java (Intermediate)  
+  JavaScript (Intermediate)  
+  SQL (Intermediate)  
+  C++ (Intermediate)  
+  Arduino (Intermediate)  
+
+### Web Development
+- HTML (Excellent)  
+  CSS (Excellent)  
+  PHP (Excellent)  
+  React (Intermediate)  
+  Node.js (Intermediate)  
+
+### Mobile Development
+- React Native (Intermediate)  
+  NativeWind (Intermediate)  
+  Expo (Intermediate)  
+
+### Database Management
+- MySQL (Intermediate)  
+  SQLite (Beginner)  
+  Supabase (Beginner)  
+  Firebase (Beginner)  
+
+### Development Workflow & Tools
+- Git (Intermediate)  
+  GitHub (Intermediate)  
+  CI/CD Basics: GitHub Actions & Expo EAS Build  
+  Firebase Hosting (Beginner)  
+  XAMPP (Intermediate)  
+
+### Software & Tools
+- Figma (Beginner)  
+  Microsoft Office (Excellent)  
+  Google Workspace (Excellent)  
+  Canva (Excellent)  
+  Photoshop (Excellent)  
+  VS Code (Excellent)  
 
 ## 🔥 Featured Projects
 ### [FYPWISE - FYP Management System](https://github.com/yourusername/FYPWISE)
