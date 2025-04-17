@@ -10,46 +10,40 @@
 
 ## 🛠️ Technical Skills
 
-### Programming Languages
-- Python (Excellent)  
-  Java (Intermediate)  
-  JavaScript (Intermediate)  
-  SQL (Intermediate)  
-  C++ (Intermediate)  
-  Arduino (Intermediate)  
+### <img src="https://cdn-icons-png.flaticon.com/512/1005/1005141.png" width="20"> Programming Languages
+![Python](https://img.shields.io/badge/Python-Excellent-3776AB?logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-Intermediate-007396?logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-F7DF1E?logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-Intermediate-00599C?logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Intermediate-4479A1?logo=postgresql&logoColor=white)
 
-### Web Development
-- HTML (Excellent)  
-  CSS (Excellent)  
-  PHP (Excellent)  
-  React (Intermediate)  
-  Node.js (Intermediate)  
+### <img src="https://cdn-icons-png.flaticon.com/512/2282/2282188.png" width="20"> Web Development
+![HTML5](https://img.shields.io/badge/HTML5-Excellent-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-Excellent-1572B6?logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-Intermediate-61DAFB?logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-Intermediate-339933?logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-Excellent-777BB4?logo=php&logoColor=white)
 
-### Mobile Development
-- React Native (Intermediate)  
-  NativeWind (Intermediate)  
-  Expo (Intermediate)  
+### <img src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png" width="20"> Mobile Development
+![React Native](https://img.shields.io/badge/React_Native-Intermediate-61DAFB?logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-Intermediate-000020?logo=expo&logoColor=white)
+![NativeWind](https://img.shields.io/badge/NativeWind-Intermediate-06B6D4?logo=tailwind-css&logoColor=white)
 
-### Database Management
-- MySQL (Intermediate)  
-  SQLite (Beginner)  
-  Supabase (Beginner)  
-  Firebase (Beginner)  
+### <img src="https://cdn-icons-png.flaticon.com/512/4492/4492311.png" width="20"> Databases
+![MySQL](https://img.shields.io/badge/MySQL-Intermediate-4479A1?logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-Beginner-FFCA28?logo=firebase&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-Beginner-003B57?logo=sqlite&logoColor=white)
 
-### Development Workflow & Tools
-- Git (Intermediate)  
-  GitHub (Intermediate)  
-  CI/CD Basics: GitHub Actions & Expo EAS Build  
-  Firebase Hosting (Beginner)  
-  XAMPP (Intermediate)  
+### <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="20"> Tools & Platforms
+![Git](https://img.shields.io/badge/Git-Intermediate-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Intermediate-181717?logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-Excellent-007ACC?logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-Beginner-F24E1E?logo=figma&logoColor=white)
 
-### Software & Tools
-- Figma (Beginner)  
-  Microsoft Office (Excellent)  
-  Google Workspace (Excellent)  
-  Canva (Excellent)  
-  Photoshop (Excellent)  
-  VS Code (Excellent)  
+### <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" width="20"> Design & Office
+![Photoshop](https://img.shields.io/badge/Photoshop-Excellent-31A8FF?logo=adobe-photoshop&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-Excellent-00C4CC?logo=canva&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-Excellent-D83B01?logo=microsoft-office&logoColor=white)
 
 ## 🔥 Featured Projects
 ### [FYPWISE - FYP Management System](https://github.com/yourusername/FYPWISE)
