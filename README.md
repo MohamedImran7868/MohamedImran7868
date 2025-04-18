@@ -3,7 +3,8 @@
 🎓 Software Engineering Student | 💻 Software Developer | 🚀 Passionate about building user-friendly applications
 
 ## 📌 About Me
-- Currently pursuing Bachelor of Computer Science (Software Engineering) at Multimedia University (CGPA: 3.71/4.00)
+- Currently pursuing Bachelor of Computer Science (Software Engineering) at Multimedia University
+- CGPA: 3.71/4.00
 - Passionate about writing clean, efficient code and building intuitive applications
 - Quick learner with hands-on experience in React, Node.js, and modern web development
 - Check out my portfolio: [mohamedimran7868.github.io/imran-portfolio](https://mohamedimran7868.github.io/imran-portfolio/#/)
