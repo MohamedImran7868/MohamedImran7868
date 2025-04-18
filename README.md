@@ -51,19 +51,17 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![MVC](https://img.shields.io/badge/Architecture-MVC-FF6B6B)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 
 **Key Features:**
 ✅ **MVC Architecture** - Separated concerns for maintainability  
 ✅ **Admin Dashboard** - For professors to manage projects/students  
 ✅ **Student Portal** - Submission system with deadlines tracking  
-✅ **Automated Notifications** - Email reminders for milestones  
+✅ **Task Tracking** - Built it calendar and task section to track task  
 
 **My Contributions:**  
 🔹 Designed database schema with 15+ relational tables  
 🔹 Implemented CRUD operations using PHP/MySQL  
-🔹 Developed responsive UI with Bootstrap 5  
-🔹 Integrated SMTP email notifications  
+🔹 Developed responsive UI
 
 ---
 
@@ -74,8 +72,8 @@
 **Tech Stack:**  
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Animations-Framer_Motion-0055FF)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
+<div align="center"> <img src="https://img.shields.io/badge/GitHub_Pages-222222?logo=github-pages&logoColor=white" alt="GitHub Pages"> <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React"> <img src="https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white" alt="React Router"> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white" alt="GitHub Actions"> </div>
 
 **Notable Components:**  
 ✨ **Animated page transitions**  
