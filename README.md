@@ -42,6 +42,28 @@
 
 ## 🚀 Featured Projects
 
+
+### **🔧 Ongoing FYP: Web-Based Sentiment Analysis Chatbot** *(Expected Completion: Jun 2025)*
+📌 **AI-powered conversational chatbot**
+
+**Tech Stack:**  
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
+
+**Responsibility**
+⚒️ Develop interactive and responsive front-end
+⚒️ Engineer the back-end connection between model and system
+⚒️ Seamless Integration of the model with the application 
+⚒️ Project Deployment and Testing 
+
+**Current Milestones:**  
+🟢 **Phase 1 Completed**: Front-end Design (completed)  
+🟡 **Phase 2 In Progress**: Model Integration (30% done)  
+🔴 **Phase 3 Pending**: Deployment  
+
+---
+
 ### **FYPWISE - FYP Management System** | [GitHub Repo](https://github.com/yourusername/FYPWISE)
 *(Nov 2024 - Feb 2025)*  
 📌 **A comprehensive web platform for managing university Final Year Projects**
@@ -68,68 +90,6 @@
 🔹 Responsible of user management Module
 
 ---
-
-### **Personal Portfolio Website** | [Live Demo](https://mohamedimran7868.github.io/imran-portfolio/#/)
-*(Ongoing Project)*  
-📌 **Interactive showcase of my projects and skills**
-
-**Tech Stack:**  
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?logo=github&logoColor=white&style=flat-square)
-
-**Notable Components:**  
-✨ **Animated navbar transitions**  
-✨ **Project showcase**  
-✨ **Responsive design (mobile-first)**  
-✨ **Dark/light mode toggle**  
-
----
-
-### **🔧 Ongoing FYP: Web-Based Sentiment Analysis Chatbot** *(Expected Completion: Jun 2025)*
-📌 **AI-powered conversational chatbot**
-
-**Tech Stack:**  
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
-
-**Responsibility**
-⚒️ Develop interactive and responsive front-end
-⚒️ Engineer the back-end connection between model and system
-⚒️ Seamless Integration of the model with the application 
-⚒️ Project Deployment and Testing 
-
-**Current Milestones:**  
-🟢 **Phase 1 Completed**: Front-end Design (completed)  
-🟡 **Phase 2 In Progress**: Model Integration (30% done)  
-🔴 **Phase 3 Pending**: Deployment  
-
----
-
-### **Mobile Expense Tracker** *(Planned Personal Project)*
-📌 **Finance management app with data visualization**
-
-**Tech Stack:**  
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=black)
-![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
-
-**Core Functionality:**  
-📊 Expense categorization with pie charts  
-🔔 Monthly budget alerts  
-📱 Off-first synchronization  
-🔐 User authentication  
-
-*(More projects available on my [portfolio site]((https://mohamedimran7868.github.io/imran-portfolio/#/))*
-**Technical Achievements:**  
-🔐 Implemented JWT authentication  
-📲 Optimized for low-end devices (98% compatibility)  
-## 📚 Currently Learning
-- Expanding my knowledge in Software development
-- Exploring new JavaScript frameworks and libraries
-- Improving my system design skills by learning Tailwind
 
 ## 🏆 Achievements
 - Placed 15th out of 34 groups in CodeNection competition
