@@ -25,6 +25,10 @@
 ![Node.js](https://img.shields.io/badge/Node.js-Intermediate-339933?logo=node.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-Excellent-777BB4?logo=php&logoColor=white)
 
+### <img src="https://cdn-icons-png.flaticon.com/512/2965/2965300.png" width="20"> Mobile Development
+![React Native](https://img.shields.io/badge/React_Native-Intermediate-61DAFB?logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-Beginner-000020?logo=expo&logoColor=white)
+
 ### <img src="https://cdn-icons-png.flaticon.com/512/4492/4492311.png" width="20"> Databases
 ![MySQL](https://img.shields.io/badge/MySQL-Intermediate-4479A1?logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-Beginner-003B57?logo=sqlite&logoColor=white)
