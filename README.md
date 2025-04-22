@@ -54,12 +54,15 @@
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![InfinityFree](https://img.shields.io/badge/InfinityFree-000000?logo=infinity&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=white)
 
-**Responsibility**
-⚒️ Develop interactive and responsive front-end
-⚒️ Engineer the back-end connection between model and system
-⚒️ Seamless Integration of the model with the application 
-⚒️ Project Deployment and Testing 
+**Responsibility**  
+⚒️ Develop interactive and responsive front-end  
+⚒️ Engineer the back-end connection between model and system  
+⚒️ Seamless Integration of the model with the application  
+⚒️ Project Deployment and Testing  
 
 **Current Milestones:**  
 🟢 **Phase 1 Completed**: Front-end Design (completed)  
