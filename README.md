@@ -36,6 +36,8 @@
 ### <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="20"> Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-Intermediate-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-Intermediate-181717?logo=github&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-Excellent-007ACC?logo=visual-studio-code&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-Intermediate-F24E1E?logo=canva&logoColor=white)
 
@@ -99,7 +101,7 @@
 ---
 
 ## 🏆 Achievements
-- Placed 15th out of 34 groups in CodeNection competition
+- Participated in CodeNection 2024
 - Earned certifications in:
   - Web Responsive Design (freeCodeCamp)
   - JS Algorithms and Data Structures (freeCodeCamp)
