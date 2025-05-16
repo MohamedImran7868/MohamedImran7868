@@ -22,7 +22,6 @@
 ![HTML5](https://img.shields.io/badge/HTML5-Excellent-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-Excellent-1572B6?logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-Intermediate-61DAFB?logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-Intermediate-339933?logo=node.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-Excellent-777BB4?logo=php&logoColor=white)
 
 ### <img src="https://cdn-icons-png.flaticon.com/512/2965/2965300.png" width="20"> Mobile Development
@@ -36,7 +35,7 @@
 ### <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="20"> Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-Intermediate-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-Intermediate-181717?logo=github&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-FFCA28?logo=supabase&logoColor=black)
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-Excellent-007ACC?logo=visual-studio-code&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-Intermediate-F24E1E?logo=canva&logoColor=white)
@@ -57,7 +56,6 @@
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![InfinityFree](https://img.shields.io/badge/InfinityFree-000000?logo=infinity&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=white)
 
 **Responsibility**  
